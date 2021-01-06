@@ -1,4 +1,4 @@
-# Assignment: URL Shortener
+# Assignment: github apis mgr test
 
 ## Description
 
@@ -25,8 +25,6 @@ This application creates REST APIs to solve these requirements:
 
 ## How to compile and run the application with an example for each call
 
-Install: git clone https://github.com/thiaguimcavalcanti/hacker-rank-restapi-with-spring-boot.git
-
 Build: mvn package
 
 Deploy: mvn spring-boot:run
@@ -39,8 +37,4 @@ Deploy: mvn spring-boot:run
 {{URL}}/actors
 {{URL}}/erase
 
-To facilitate the execution of the calls:
-
-All the others requests are in the file "SpringBoot.postman_collection.json" in the "src/main/resources/postman/" folder with its configuration ("Spring Boot.postman_environment.json").
-The file must be imported into the Postman (https://www.getpostman.com/) application. 
-How-to: https://support.smartbear.com/readyapi/docs/testing/integrations/postman.html#importing-a-postman-collection
+## TODO : Few APIs to be created and test cases to be fixed
